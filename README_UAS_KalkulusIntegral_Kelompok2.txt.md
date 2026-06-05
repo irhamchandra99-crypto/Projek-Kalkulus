@@ -130,3 +130,5 @@ Error bernilai nol karena fungsi *piecewise* seluruhnya terdiri dari segmen **li
 ## Lisensi
 
 Proyek ini dibuat untuk keperluan akademik UAS Kalkulus Integral — Universitas Negeri Yogyakarta. Tidak untuk didistribusikan tanpa izin.
+
+Tautan Repo: https://github.com/irhamchandra99-crypto/Projek-Kalkulus
